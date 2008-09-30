@@ -1,0 +1,6 @@
+nbproject
+.project
+.loadpath
+log/*.log
+tmp/**/*
+*DONOTVERSION*
